@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://rutvikbarot.github.io/csb-nw2npj/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://rutvikbarot.github.io/csb-nw2npj/static/js/main.0863e2f9.chunk.js",
+    "main.js.map": "https://rutvikbarot.github.io/csb-nw2npj/static/js/main.0863e2f9.chunk.js.map",
+    "runtime-main.js": "https://rutvikbarot.github.io/csb-nw2npj/static/js/runtime-main.8d94deef.js",
+    "runtime-main.js.map": "https://rutvikbarot.github.io/csb-nw2npj/static/js/runtime-main.8d94deef.js.map",
+    "static/js/2.33f0bf01.chunk.js": "https://rutvikbarot.github.io/csb-nw2npj/static/js/2.33f0bf01.chunk.js",
+    "static/js/2.33f0bf01.chunk.js.map": "https://rutvikbarot.github.io/csb-nw2npj/static/js/2.33f0bf01.chunk.js.map",
+    "index.html": "https://rutvikbarot.github.io/csb-nw2npj/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://rutvikbarot.github.io/csb-nw2npj/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.33f0bf01.chunk.js.LICENSE.txt": "https://rutvikbarot.github.io/csb-nw2npj/static/js/2.33f0bf01.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d94deef.js",
+    "static/js/2.33f0bf01.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.0863e2f9.chunk.js"
+  ]
+}
